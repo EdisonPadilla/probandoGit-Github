@@ -1,0 +1,1 @@
+para viajar entre commits que son los puntos de control(guardado) entre las diferentes partes del proyecto que hemos ido agregando y guardando
